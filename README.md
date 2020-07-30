@@ -1,18 +1,19 @@
-<h1 align="center">Hello  👋 !</h1>
-<p>
-
+<h1 align="center">Hello  👋  
  <a href="https://twitter.com/F_XOBJ">
     <img alt="Twitter: F_XOBJ" src="https://img.shields.io/twitter/follow/F_XOBJ.svg?style=social" target="_blank" />
   </a>
-</p>
+</p>!</h1>
+<p>
 
- 
+
+- 🔭 I’m currently working on React
+- 👯 I’m looking to collaborate on any React project 
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ..
 
 
-## Social Media
-
-👤 **F-XOBJ**
-
+# 📫 You can reach me at  :
 * Twitter: [@F_XOBJ](https://twitter.com/F_XOBJ)
 * Github: [@F-xobj](https://github.com/F-xobj)
 * LinkedIn: [@f-xobj](https://www.linkedin.com/in/f-xobj/)
