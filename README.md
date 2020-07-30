@@ -5,6 +5,7 @@
 <p>
 
 
+## About me  : 
 - 🔭 I’m currently working on React
 - 👯 I’m looking to collaborate on any React project 
 
