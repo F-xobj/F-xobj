@@ -1,8 +1,5 @@
 <h1 align="center"> Hello  👋  
- <a href="https://twitter.com/F_XOBJ">
-    <img alt="Twitter: F_XOBJ" src="https://img.shields.io/twitter/follow/F_XOBJ.svg?style=social" target="_blank" />
-  </a>
-<p>
+
 
 
 ![F-xobj github stats](https://github-readme-stats.vercel.app/api?username=F-xobj&theme=tokyonight&show_icons=true)
