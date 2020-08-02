@@ -2,11 +2,15 @@
 
 ![About Me](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
 
-![F-xobj github stats](https://github-readme-stats.vercel.app/api?username=F-xobj&theme=tokyonight&show_icons=true)
 
 ## About me  : 
 - 🔭 I’m currently working on React
 - 👯 I’m looking to collaborate on any React project 
+
+
+# Github status : 
+
+![F-xobj github stats](https://github-readme-stats.vercel.app/api?username=F-xobj&theme=tokyonight&show_icons=true)
 
 
 
