@@ -1,12 +1,10 @@
 <h1 align="center"> Hello  👋  
-
+  
 ![About Me](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
 
 
 ## About me  : 
-- 🔭 I’m currently working on React
-- 👯 I’m looking to collaborate on any React project 
-
+- 🔭 Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Linux, ReactJs, (CSS), MongoDB, and HTML5. Strong engineering professional with a Bachelor's degree focused in Computer Science from Jordan University of Science and Technology. 
 
 # Github status : 
 
