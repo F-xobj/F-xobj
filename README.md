@@ -11,7 +11,11 @@
 
 
 # 📫 You can reach me at  :
-  [![Twitter Badge](https://img.shields.io/badge/-FXOBJ-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/F_XOBJ)](https://twitter.com/F_XOBJ)
-  [![Linkedin Badge](https://img.shields.io/badge/-FXOBJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/f-xobjv/)](https://www.linkedin.com/in/f-xobj)
-  [![Facebook  Badge](https://img.shields.io/badge/FXOBJ-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/Fxobj)
-  <a href="https://www.instagram.com/fxobj" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/f-xobj" target="_blank"><img src="https://img.shields.io/badge/-FXOBJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/fxobj" target="_blank"><img src="https://img.shields.io/badge/-FXOBJ-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+      <a href="https://twitter.com/F_XOBJ" target="_blank"><img src="https://img.shields.io/badge/-FXOBJ-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link" alt="Twitter"></a>
+       <a href="https://facebook.com/Fxobj" target="_blank"><img src="https://img.shields.io/badge/FXOBJ-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+      
+      
+  
