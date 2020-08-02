@@ -5,6 +5,8 @@
 <p>
 
 
+![F-xobj github stats](https://github-readme-stats.vercel.app/api?username=F-xobj&theme=tokyonight&show_icons=true)
+
 ## About me  : 
 - 🔭 I’m currently working on React
 - 👯 I’m looking to collaborate on any React project 
