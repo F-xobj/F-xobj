@@ -11,7 +11,7 @@
 
 
 # 📫 You can reach me at  :
- [![Twitter Follow](https://img.shields.io/twitter/follow/F_XOBJ?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/F_XOBJ)
-[![Linkedin Badge](https://img.shields.io/badge/-Fxobj%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/f-xobj)](https://www.linkedin.com/in/f-xobj/)
- 
- 
+
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/F_XOBJ)](https://twitter.com/F_XOBJ)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/f-xobjv/)](https://www.linkedin.com/in/f-xobj)
+  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/Fxobj)
