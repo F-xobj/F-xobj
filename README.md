@@ -1,6 +1,7 @@
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=f-xobj" alt="f-xobj" /> </p>
 <h1 align="center"> Hello  👋
   
-![About Me](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
 
 
 ## About me  : 
